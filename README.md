@@ -7,6 +7,23 @@ A datapack for Minecraft 1.14.3 / Un datapack pour Minecraft 1.14.3
 ### What is Peaceful+ ?
 Peaceful+ is a datapack for Minecraft that allows players playing in peaceful difficulty, to obtain some items not accessible whith this difficulty. It therefore adds craft objects essentially drop by mobs in others difficulties.
 
+Those new crafts are automatically unlocked by the player or players when they log on for the first time to their world or to a server after installing this datapack.
+
+A list of these new crafts is shown in the advancements table in the corresponding tab. Here is the list here for the curious:
+
+- Blaze Rod
+- Dragon Breath
+- Ender Pearl
+- Ghast Tear
+- Nether Star
+- Phantom Membrane
+- Shulker Shell
+- Slime Ball
+- String
+- Totem of Undying
+- Trident
+- And others to come ...
+
 </details>
 
 <details>
@@ -15,7 +32,7 @@ Peaceful+ is a datapack for Minecraft that allows players playing in peaceful di
 ### Qu'est que Peaceful+ ?
 Peaceful+ est un datapack pour Minecraft qui permet aux joueurs jouant en difficulté paisible, d'obtenir certains items non accessibles avec cette difficulté. Il rajoute donc des craft d'objets essentiellement laisser par les mobs dans les autres difficultés.
 
-C'est nouveaux crafts sont automatiquement débloqués par le ou les joueurs lorsqu'ils se connectent pour la première fois sur leur monde ou sur un serveur après l'installation de ce datapack.
+Ces nouveaux crafts sont automatiquement débloqués par le ou les joueurs lorsqu'ils se connectent pour la première fois sur leur monde ou sur un serveur après l'installation de ce datapack.
 
 Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès dans l'onglet correspondant. En voici la liste ici pour les curieux :
 
