@@ -57,7 +57,7 @@ Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès 
   
   <tr height="64px">
     <td colspan=3 align="center"><h4><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/3/3a/B%C3%A2ton_de_Blaze.png?version=6bef504800ee17e512a09a3fcecf1b50" width="16" alt="Blaze Rod"> Blaze Rod / Bâton de Blaze</h4></td>
-    <td colspan=3 align="center"><h4><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/1/19/Souffle_de_dragon.png?version=933f0f7b954b4bc211d1792891d45a12" width="16" alt="Dragon Breath"> Dragon Brath / Souffle du Dragon</h4></td>
+    <td colspan=3 align="center"><h4><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/1/19/Souffle_de_dragon.png?version=933f0f7b954b4bc211d1792891d45a12" width="16" alt="Dragon Breath"> Dragon Breath / Souffle du Dragon</h4></td>
   </tr>
   
   <tr height="64px">
