@@ -36,7 +36,7 @@ Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès 
 
 <br>
 
-#### ![Blaze Rod](https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/3/3a/B%C3%A2ton_de_Blaze.png?version=6bef504800ee17e512a09a3fcecf1b50) Bâton de Blaze
+#### ![Blaze Rod](/images/blaze_rod.png) Bâton de Blaze
 
 
 </details>
