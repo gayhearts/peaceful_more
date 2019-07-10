@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Dragon Breath !",
+    "description": {
+      "text": "You can now craft Dragon Breath !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:dragon_breath"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:blaze_rod",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

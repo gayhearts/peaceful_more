@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Ghast Tear !",
+    "description": {
+      "text": "You can now craft Ghast Tear !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:ghast_tear"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:ender_pearl",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

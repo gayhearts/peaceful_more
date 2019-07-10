@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Ender Pearl !",
+    "description": {
+      "text": "You can now craft Ender Pearl !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:dragon_breath",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

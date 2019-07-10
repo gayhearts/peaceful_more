@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Totem of Undying !",
+    "description": {
+      "text": "You can now craft Totem of Undying !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:string",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

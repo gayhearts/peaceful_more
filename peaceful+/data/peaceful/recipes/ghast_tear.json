@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "121",
+    "232",
+    "121"
+  ],
+  "key" : {
+    "1": {
+      "item": "minecraft:blaze_powder"
+    },
+    "2": {
+      "item": "minecraft:quartz"
+    },
+    "3": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_tear",
+    "count": 1
+  }
+}

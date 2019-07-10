@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "String !",
+    "description": {
+      "text": "You can now craft String !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:string"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "display": {
+    "title": "Peaceful+",
+    "description": {
+      "text": "Getting start with Peaceful+ !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:barrel"
+    },
+    "show_toast": true,
+    "announce_to_chat": false,
+    "background": "textures/block/black_concrete_powder.png",
+    "frame": "challenge"
+  },
+
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+
+  "rewards": {
+    "recipes": [
+      "peaceful:blaze_rod",
+      "peaceful:dragon_breath",
+      "peaceful:ender_pearl",
+      "peaceful:ghast_tear",
+      "peaceful:nether_star",
+      "peaceful:phantom_membrane",
+      "peaceful:shulker_shell",
+      "peaceful:slime_ball",
+      "peaceful:string",
+      "peaceful:totem_of_undying",
+      "peaceful:trident"
+    ]
+  }
+}

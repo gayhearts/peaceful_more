@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Slime Ball !",
+    "description": {
+      "text": "You can now craft Slime Ball !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:slime_ball"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:shulker_shell",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Phantom Membrane !",
+    "description": {
+      "text": "You can now craft Phantom Membrane !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:nether_star",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

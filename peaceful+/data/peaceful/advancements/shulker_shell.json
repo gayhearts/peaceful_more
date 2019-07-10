@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Shulker Shell !",
+    "description": {
+      "text": "You can now craft Shulker Shell !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:shulker_shell"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:phantom_membrane",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "And maybe more ...",
+    "description": {
+      "text": "In a future release.",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:trident",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

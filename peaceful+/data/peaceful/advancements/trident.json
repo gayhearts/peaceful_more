@@ -1,0 +1,19 @@
+{
+  "display": {
+    "title": "Trident !",
+    "description": {
+      "text": "You can now craft Trident !",
+      "color": "gray"
+    },
+    "icon": {
+      "item": "minecraft:trident"
+    },
+    "announce_to_chat": false
+  },
+  "parent": "peaceful:totem_of_undying",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
