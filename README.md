@@ -1,2 +1,2 @@
-# peaceful_more
+# Peaceful+
 It's a data pack for Minecraft 1.14.3.
