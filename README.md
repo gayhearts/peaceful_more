@@ -1,5 +1,5 @@
-# Peaceful+
-A datapack for Minecraft 1.14.3 / Un datapack pour Minecraft 1.14.3
+# Peaceful+ (gayhearts fork)
+A datapack for Minecraft 1.20.4 / Un datapack pour Minecraft 1.20.4
 
 <details open>
   <summary>English</summary>
