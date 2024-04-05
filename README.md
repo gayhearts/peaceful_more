@@ -101,9 +101,9 @@ Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès 
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/1/10/Poudre_de_Blaze.png?version=6ed164fcb09e4b18a68ca62d31b23165" width="32" alt="Blaze Powder"></td>
   </tr>
   <tr height="64px">
-    <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/3/3b/Vert_de_cactus.png?version=87fd1bd2426e33851f5a55885138a8c4" width="32" alt="Green Dye"></td>
+    <td width="64px" align="center"><img src="./images/green_dye.png" width="32" alt="Green Dye"></td>
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/6/64/Diamant.png?version=9a1d3ea72ad29d91aa6783cbb2edb04b" width="32" alt="Diamond"></td>
-    <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/3/3b/Vert_de_cactus.png?version=87fd1bd2426e33851f5a55885138a8c4" width="32" alt="Green Dye"></td>
+    <td width="64px" align="center"><img src="./images/green_dye.png" width="32" alt="Green Dye"></td>
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/0/04/Quartz_du_Nether.png?version=b0926b4c58fcf0b1fbe49efcd5850eb5" width="32" alt="Quartz"></td>
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/5/5d/Seau_de_lave.png?version=37e983b003ef3d274523c02dc9af0d77" width="32" alt="Lava Bucket"></td>
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/0/04/Quartz_du_Nether.png?version=b0926b4c58fcf0b1fbe49efcd5850eb5" width="32" alt="Quartz"></td>
@@ -213,9 +213,9 @@ Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès 
   </tr>
   
   <tr height="64px">
-    <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a0/Diamond_Sword.png?version=d3b1fbce65ce732c68aa8b544c1b081c" width="32" alt="Diamond Sword"></td>
+    <td width="64px" align="center"><img src="./images/diamond_sword.png" width="32" alt="Diamond Sword"></td>
     <td width="64px" align="center"></td>
-    <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a0/Diamond_Sword.png?version=d3b1fbce65ce732c68aa8b544c1b081c" width="32" alt="Diamond Sword"></td>
+    <td width="64px" align="center"><img src="./images/diamond_sword.png" width="32" alt="Diamond Sword"></td>
   </tr>
   <tr height="64px">
     <td width="64px" align="center"></td>
@@ -225,7 +225,7 @@ Une liste de ces nouveaux crafts vous est indiqué dans le tableau des progrès 
   <tr height="64px">
     <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_fr_gamepedia/d/d0/B%C3%A2ton.png?version=3489191e1acbb01c88bf3342346af62f" width="32" alt="Stick"></td>
     <td width="64px" align="center"></td>
-    <td width="64px" align="center"><img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a0/Diamond_Sword.png?version=d3b1fbce65ce732c68aa8b544c1b081c" width="32" alt="Diamond Sword"></td>
+    <td width="64px" align="center"><img src="./images/diamond_sword.png" width="32" alt="Diamond Sword"></td>
   </tr>
 </table>
 
