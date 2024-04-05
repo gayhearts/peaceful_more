@@ -1,0 +1,10 @@
+{
+  "type": "smoking",
+  "group": "misc",
+  "ingredient": {
+    "item": "minecraft:red_mushroom"
+  },
+  "result": "minecraft:spider_eye",
+  "experience": 0.2,
+  "cookingtime": 200
+}
