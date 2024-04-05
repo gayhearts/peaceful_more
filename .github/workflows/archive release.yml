@@ -1,0 +1,17 @@
+name: Create Archive
+on:
+  push:
+    tags:        
+      - "v*"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Create ankiaddon
+      run: 'cd peaceful+; zip -r ../peaceful+.zip *'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1.12.0
+      with:
+        artifacts: "peaceful+.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
