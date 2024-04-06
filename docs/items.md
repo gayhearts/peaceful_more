@@ -43,7 +43,8 @@
 		- single leather + sheers? (would need a mod)
 
 ### structure-specific or very rare loot
-	- saddles - #=leather
+	- saddles - #=leather, I=iron
 		|#|#|#|
-		|#| |#|
-		| | | |
+		|#|I|#|
+		|I| |I|
+		- original "horse saddle" recipe
