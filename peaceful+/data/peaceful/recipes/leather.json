@@ -1,20 +1,20 @@
 {
   "type": "crafting_shaped",
   "pattern": [
+    "222",
     "111",
-    "121",
-    "211"
+    "222"
   ],
   "key" : {
     "1": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:paper"
     },
     "2": {
-      "item": "minecraft:stick"
+      "item": "minecraft:brown_mushroom"
     }
   },
   "result": {
-    "item": "minecraft:trident",
-    "count": 1
+    "item": "minecraft:leather",
+    "count": 3
   }
 }
