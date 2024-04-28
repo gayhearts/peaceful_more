@@ -11,7 +11,7 @@ CHANGELOG.html: CHANGELOG.md
 		--standalone \
 		--output CHANGELOG.html \
 		--metadata title='peaceful+ changelog' \
-		peaceful+/CHANGELOG.md
+		CHANGELOG.md
 
 .PHONY: export
 export: CHANGELOG.md CHANGELOG.html
