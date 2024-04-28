@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "gunpowder",
+  "ingredient": {
+    "item": "minecraft:string"
+  },
+  "result": "minecraft:gunpowder",
+  "experience": 0.2,
+  "cookingtime": 100
+}
