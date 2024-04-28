@@ -44,5 +44,5 @@ tag-release:
 # Just give current version
 .PHONY: version
 version:
-	@git describe --match 'v*' | cut -c 2-
+	@git describe --match 'v*' --tags | cut -c 2-
 
