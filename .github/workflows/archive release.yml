@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Create ankiaddon
-      run: 'make export'
+      run: 'pip install git-cliff; make export'
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
