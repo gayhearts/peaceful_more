@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Create ankiaddon
-      run: 'pip install git-cliff; make export'
+      run: 'sudo apt-get install pandoc; pip install git-cliff; make export'
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
