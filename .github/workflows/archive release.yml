@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Create ankiaddon
-      run: 'cd peaceful+; zip -r ../peaceful+.zip *'
+      run: 'make export'
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
